@@ -1,2 +1,2 @@
 # MovieRecommender
-![Movie Recommender Logo](/images/MovieRec-logo.png)
+![Movie Recommender Logo](MovieRec-logo.png)
